@@ -55,3 +55,16 @@ textarea [placeholder]{
 .up{
     display: inline;
 }
+
+@media(max-width: 600px) {
+    .text1,.text2{
+        width: 100%;
+}
+.flex-container{
+    display: block;
+}
+.trans{
+    margin-bottom:1em;
+    margin-top:1em;
+}
+}
